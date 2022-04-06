@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MASTER0811/package-app/issues"
   },
-  "homepage": "https://github.com/MASTER0811/package-app#readme"
+  "homepage": "https://github.com/MASTER0811/package-app#readme",
+  "publishConfig": {
+    "@MASTER0811:registry": "https://npm.pkg.github.com"
+  }
 }
