@@ -1,0 +1,19 @@
+{
+  "name": "@master0811/package-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MASTER0811/package-app.git"
+  },
+  "author": "master0811",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MASTER0811/package-app/issues"
+  },
+  "homepage": "https://github.com/MASTER0811/package-app#readme"
+}
